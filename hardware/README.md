@@ -1,6 +1,6 @@
 # Projetos alvo
 
-Catálogo de propostas do Offshore Barrier. Apenas DeckWatch possui firmware inicial; os demais são conceitos. Todos dependem de validação. Nenhum equipamento foi ensaiado fisicamente.
+Catálogo de propostas do Offshore Barrier. DeckWatch e LineGuard possuem firmware inicial; os demais são conceitos. Todos dependem de validação. Nenhum equipamento foi ensaiado fisicamente.
 
 ## 01 — DeckWatch
 
@@ -32,9 +32,11 @@ Pesquisar alertas suplementares de proximidade na zona de exclusão de uma carga
 
 **Risco:** Prensamento de mãos e membros
 
-**Situação:** Conceito
+**Situação:** Firmware PIR/DHT11 e dashboard de bancada; sem medição de distância.
 
-Estudar a identificação de presença em uma zona de manuseio de tubos numa bancada sem energia perigosa.
+[Dashboard USB](https://brunnojob.github.io/offshore-barrier/lineguard/) · [Firmware e montagem](lineguard/README.md)
+
+Estudar a identificação de movimento em uma bancada sem energia perigosa.
 
 - Componentes: Microcontrolador, sensor ToF e peças leves de maquete.
 - Fluxo: Presença simulada → indicação local → registro de evento para análise.

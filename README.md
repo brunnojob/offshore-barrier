@@ -4,13 +4,15 @@ Protótipo em Python para identificar lacunas nas verificações de barreiras an
 
 O problema escolhido é a perda de visibilidade sobre controles que foram declarados, falharam ou perderam validade entre o planejamento e a revisão da atividade. O objetivo inicial é tornar essas lacunas explícitas e rastreáveis.
 
+[Dashboard LineGuard: ESP32 + PIR + DHT11](https://brunnojob.github.io/offshore-barrier/lineguard/) · [Firmware e ligações](hardware/lineguard/README.md)
+
 [Demonstração interativa](https://brunnojob.github.io/offshore-barrier/) · [Projetos de hardware](hardware/README.md) · [DeckWatch](hardware/deckwatch/README.md)
 
 ## Demonstração e projetos alvo
 
 Pages responsivo em PT-BR/EN: sete barreiras editáveis, quatro cenários, exportação JSON, simulação de perda de telemetria e catálogo de nove projetos. Sem login, token ou backend. Os dados ficam somente em memória e são reiniciados ao recarregar. O motor Python continua disponível para uso local; a demonstração executa JavaScript no navegador.
 
-Projetos: DeckWatch (piso), LiftZone (içamento), LineGuard (prensamento), GasLink (H2S), ThermoTag (queimaduras), BarrierPulse (processo), ApproachWatch (aproximação marítima), MotionLog (movimento) e HeliReady (preparação de embarque). Cada proposta descreve componentes, fluxo, validação e limitações. Apenas DeckWatch inclui firmware inicial de bancada; não houve ensaio em placa.
+Projetos: DeckWatch (piso), LiftZone (içamento), LineGuard (prensamento), GasLink (H2S), ThermoTag (queimaduras), BarrierPulse (processo), ApproachWatch (aproximação marítima), MotionLog (movimento) e HeliReady (preparação de embarque). Cada proposta descreve componentes, fluxo, validação e limitações. DeckWatch e LineGuard incluem firmware inicial de bancada; não houve ensaio em placa. LineGuard lê PIR/DHT11 por USB, mantém evento de movimento retido, sinaliza LED azul e usa áudio do navegador; as três zonas espaciais não são medidas por esses sensores.
 
 ## Executar
 
@@ -61,3 +63,12 @@ Veja `docs/PROJETO.md` para cobertura dos riscos, arquitetura, etapas e critéri
 - `.github/workflows/pages.yml`: testes e publicação no GitHub Pages.
 
 Licença MIT. Desenvolvido por [brunnodev.store](https://brunnodev.store).
+
+## Testar LineGuard
+
+```bash
+python -m unittest discover -s tests -v
+node --test tests/lineguard.test.mjs
+```
+
+Veja o guia específico de instalação em `hardware/lineguard/README.md`. Não houve gravação do ESP32 do usuário.

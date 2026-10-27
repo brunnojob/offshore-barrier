@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {Monitor,parseFrame} from '../web/lineguard/model.mjs';
+const frame=(changes={})=>({schema:'lineguard/1',device_id:'esp32',session:'boot1',seq:1,uptime_ms:100,mode:'live',state:'unverified',live_state:'unverified',pir:false,latched:false,led_on:true,dht_ok:true,temperature_c:25,humidity_pct:60,warmup_remaining_ms:0,work_authorized:false,...changes});
+test('silence becomes offline at boundary',()=>{const m=new Monitor();m.accept(JSON.stringify(frame()),0);assert.equal(m.view(2999),'unverified');assert.equal(m.view(3000),'offline');});
+test('real safe frame rejected',()=>{assert.throws(()=>parseFrame(JSON.stringify(frame({state:'safe'}))));});
+test('duplicates and reordered frames rejected without freshness update',()=>{const m=new Monitor();const s=JSON.stringify(frame());m.accept(s,0);assert.throws(()=>m.accept(s,2000));assert.equal(m.lastReceived,0);});
+test('new boot sequence accepted, device switch rejected',()=>{const m=new Monitor();m.accept(JSON.stringify(frame()),0);m.accept(JSON.stringify(frame({session:'boot2'})),1);assert.throws(()=>m.accept(JSON.stringify(frame({device_id:'other'})),2));});
+test('test safe explicit, environmental failure independent of risk',()=>{assert.equal(parseFrame(JSON.stringify(frame({mode:'led_test',state:'safe'}))).mode,'led_test');assert.equal(parseFrame(JSON.stringify(frame({state:'risk',live_state:'risk',latched:true,dht_ok:false,temperature_c:null,humidity_pct:null}))).state,'risk');});
+test('invalid data rejected',()=>{for(const changes of [{schema:'deckwatch-demo/0.1'},{seq:NaN},{humidity_pct:101},{work_authorized:true},{pir:'false'}])assert.throws(()=>parseFrame(JSON.stringify(frame(changes))));});
+test('invalid stream never inherits prior trusted display',()=>{const m=new Monitor();m.accept(JSON.stringify(frame()),0);m.fault=true;assert.equal(m.view(1),'offline');m.accept(JSON.stringify(frame({seq:2})),2);assert.equal(m.view(3),'unverified');});
+test('old boot cannot refresh stream',()=>{const m=new Monitor();m.accept(JSON.stringify(frame()),0);m.accept(JSON.stringify(frame({session:'boot2'})),1);assert.throws(()=>m.accept(JSON.stringify(frame({seq:2})),2));assert.equal(m.lastReceived,1);});
+test('LED test cannot hide latched live risk',()=>{assert.throws(()=>parseFrame(JSON.stringify(frame({mode:'led_test',state:'safe',live_state:'risk',latched:true}))));});
