@@ -194,3 +194,5 @@
 
 * [2026-10-29 20:29:31] clean applied to internal configs (Ref: d4eda2b4)
 
+* [2026-10-29 20:29:49] update applied to inline comments (Ref: b1b54c59)
+
