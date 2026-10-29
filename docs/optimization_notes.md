@@ -126,3 +126,5 @@
 
 * [2026-10-29 20:18:21] clean applied to inline comments (Ref: d67d1e8c)
 
+* [2026-10-29 20:18:40] improve applied to internal configs (Ref: 0e34d978)
+
