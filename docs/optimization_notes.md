@@ -82,3 +82,5 @@
 
 * [2026-10-29 20:10:40] update applied to internal configs (Ref: dddab685)
 
+* [2026-10-29 20:11:13] improve applied to internal configs (Ref: 4ff4752e)
+
