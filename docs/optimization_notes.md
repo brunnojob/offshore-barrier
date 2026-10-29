@@ -10,3 +10,5 @@
 
 * [2026-10-29 19:57:39] improve applied to internal configs (Ref: c9862744)
 
+* [2026-10-29 19:57:58] format applied to inline comments (Ref: c3290c41)
+
