@@ -2,3 +2,5 @@
 
 * [2026-10-29 19:53:04] clean applied to utilities (Ref: aeb996ad)
 
+* [2026-10-29 19:55:26] update applied to module structure (Ref: c561afb0)
+
