@@ -114,3 +114,5 @@
 
 * [2026-10-29 20:16:20] improve applied to utilities (Ref: 7bbdb029)
 
+* [2026-10-29 20:16:40] optimize applied to inline comments (Ref: 8c58a303)
+
