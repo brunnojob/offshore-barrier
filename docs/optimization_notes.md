@@ -58,3 +58,5 @@
 
 * [2026-10-29 20:05:50] improve applied to internal configs (Ref: 68fca25d)
 
+* [2026-10-29 20:06:11] format applied to internal configs (Ref: 51409929)
+
