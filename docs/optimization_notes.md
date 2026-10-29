@@ -24,3 +24,5 @@
 
 * [2026-10-29 20:00:06] format applied to type hints (Ref: d87cb33c)
 
+* [2026-10-29 20:00:29] format applied to inline comments (Ref: c3e35ec2)
+
