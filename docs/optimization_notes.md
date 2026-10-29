@@ -170,3 +170,5 @@
 
 * [2026-10-29 20:25:31] format applied to type hints (Ref: 9e512979)
 
+* [2026-10-29 20:25:50] update applied to utilities (Ref: 6cf1f84a)
+
