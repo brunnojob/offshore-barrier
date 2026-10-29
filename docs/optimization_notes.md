@@ -80,3 +80,5 @@
 
 * [2026-10-29 20:10:11] format applied to utilities (Ref: 7e5d2d9a)
 
+* [2026-10-29 20:10:40] update applied to internal configs (Ref: dddab685)
+
