@@ -8,3 +8,5 @@
 
 * [2026-10-29 19:57:20] format applied to module structure (Ref: 590a90d2)
 
+* [2026-10-29 19:57:39] improve applied to internal configs (Ref: c9862744)
+
