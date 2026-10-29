@@ -184,3 +184,5 @@
 
 * [2026-10-29 20:27:46] format applied to utilities (Ref: ee407ce4)
 
+* [2026-10-29 20:28:08] format applied to type hints (Ref: 2befa06a)
+
