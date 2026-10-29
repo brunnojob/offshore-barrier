@@ -22,3 +22,5 @@
 
 * [2026-10-29 19:59:44] improve applied to type hints (Ref: 5aa05c9e)
 
+* [2026-10-29 20:00:06] format applied to type hints (Ref: d87cb33c)
+
