@@ -118,3 +118,5 @@
 
 * [2026-10-29 20:17:01] update applied to internal configs (Ref: 4883b9cd)
 
+* [2026-10-29 20:17:24] improve applied to type hints (Ref: d537f88a)
+
