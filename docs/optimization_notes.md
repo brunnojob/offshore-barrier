@@ -56,3 +56,5 @@
 
 * [2026-10-29 20:05:30] improve applied to type hints (Ref: e0f9be45)
 
+* [2026-10-29 20:05:50] improve applied to internal configs (Ref: 68fca25d)
+
