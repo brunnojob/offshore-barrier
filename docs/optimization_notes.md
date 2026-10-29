@@ -168,3 +168,5 @@
 
 * [2026-10-29 20:25:13] clean applied to utilities (Ref: e0a15940)
 
+* [2026-10-29 20:25:31] format applied to type hints (Ref: 9e512979)
+
