@@ -840,3 +840,5 @@
 
 * [2026-10-29 21:22:34] optimize applied to module structure (Ref: 40c1796e-37)
 
+* [2026-10-29 21:22:34] clean applied to inline comments (Ref: 40c1796e-38)
+
