@@ -856,3 +856,5 @@
 
 * [2026-10-29 21:22:37] improve applied to internal configs (Ref: 40c1796e-45)
 
+* [2026-10-29 21:22:38] improve applied to inline comments (Ref: 40c1796e-46)
+
