@@ -1132,3 +1132,5 @@
 
 * [2026-10-29 21:24:24] optimize applied to module structure (Ref: df706b6c-33)
 
+* [2026-10-29 21:24:24] format applied to utilities (Ref: df706b6c-34)
+
