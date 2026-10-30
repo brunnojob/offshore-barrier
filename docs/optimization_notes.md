@@ -678,3 +678,5 @@
 
 * [2026-10-29 21:21:57] improve applied to type hints (Ref: 433dad78-6)
 
+* [2026-10-29 21:21:57] format applied to inline comments (Ref: 433dad78-7)
+
