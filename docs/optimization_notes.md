@@ -562,3 +562,5 @@
 
 * [2026-10-29 21:18:49] format applied to inline comments (Ref: 3e214453-48)
 
+* [2026-10-29 21:18:49] clean applied to internal configs (Ref: 3e214453-49)
+
