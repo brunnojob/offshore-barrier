@@ -1120,3 +1120,5 @@
 
 * [2026-10-29 21:24:22] optimize applied to inline comments (Ref: df706b6c-27)
 
+* [2026-10-29 21:24:22] improve applied to inline comments (Ref: df706b6c-28)
+
