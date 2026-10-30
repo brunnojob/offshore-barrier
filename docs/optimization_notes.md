@@ -758,3 +758,5 @@
 
 * [2026-10-29 21:22:08] update applied to utilities (Ref: 433dad78-46)
 
+* [2026-10-29 21:22:08] improve applied to inline comments (Ref: 433dad78-47)
+
