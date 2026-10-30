@@ -1261,3 +1261,5 @@
 
 * [2026-10-30 02:43:19] update applied to inline comments (Ref: 8b7c3fb5-47)
 
+* [2026-10-30 02:43:20] improve applied to inline comments (Ref: 8b7c3fb5-48)
+
