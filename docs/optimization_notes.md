@@ -372,3 +372,5 @@
 
 * [2026-10-29 21:18:09] format applied to internal configs (Ref: 2e21b34f-3)
 
+* [2026-10-29 21:18:09] update applied to module structure (Ref: 2e21b34f-4)
+
