@@ -304,3 +304,5 @@
 
 * [2026-10-29 21:17:48] update applied to internal configs (Ref: badca18f-19)
 
+* [2026-10-29 21:17:49] improve applied to internal configs (Ref: badca18f-20)
+
