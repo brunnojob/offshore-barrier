@@ -1158,3 +1158,5 @@
 
 * [2026-10-29 21:24:28] optimize applied to module structure (Ref: df706b6c-46)
 
+* [2026-10-29 21:24:28] improve applied to internal configs (Ref: df706b6c-47)
+
