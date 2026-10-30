@@ -524,3 +524,5 @@
 
 * [2026-10-29 21:18:45] clean applied to module structure (Ref: 3e214453-29)
 
+* [2026-10-29 21:18:45] format applied to type hints (Ref: 3e214453-30)
+
