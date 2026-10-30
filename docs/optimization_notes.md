@@ -1389,3 +1389,5 @@
 
 * [2026-10-30 02:44:15] improve applied to internal configs (Ref: 1a5acd86-11)
 
+* [2026-10-30 02:44:15] clean applied to type hints (Ref: 1a5acd86-12)
+
