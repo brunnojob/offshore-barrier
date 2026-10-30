@@ -356,3 +356,5 @@
 
 * [2026-10-29 21:17:54] improve applied to inline comments (Ref: badca18f-45)
 
+* [2026-10-29 21:17:54] improve applied to internal configs (Ref: badca18f-46)
+
