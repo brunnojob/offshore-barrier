@@ -1523,3 +1523,5 @@
 
 * [2026-10-30 02:44:54] format applied to inline comments (Ref: 07f5ae36-28)
 
+* [2026-10-30 02:44:54] clean applied to internal configs (Ref: 07f5ae36-29)
+
