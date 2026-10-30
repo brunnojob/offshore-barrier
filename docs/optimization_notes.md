@@ -956,3 +956,5 @@
 
 * [2026-10-29 21:23:20] optimize applied to utilities (Ref: b18d249f-45)
 
+* [2026-10-29 21:23:20] clean applied to internal configs (Ref: b18d249f-46)
+
