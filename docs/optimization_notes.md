@@ -940,3 +940,5 @@
 
 * [2026-10-29 21:23:15] clean applied to utilities (Ref: b18d249f-37)
 
+* [2026-10-29 21:23:15] clean applied to module structure (Ref: b18d249f-38)
+
