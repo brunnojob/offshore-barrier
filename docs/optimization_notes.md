@@ -972,3 +972,5 @@
 
 * [2026-10-29 21:23:38] update applied to inline comments (Ref: 16c18ead-3)
 
+* [2026-10-29 21:23:38] optimize applied to internal configs (Ref: 16c18ead-4)
+
