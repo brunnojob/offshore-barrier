@@ -680,3 +680,5 @@
 
 * [2026-10-29 21:21:57] format applied to inline comments (Ref: 433dad78-7)
 
+* [2026-10-29 21:21:58] clean applied to internal configs (Ref: 433dad78-8)
+
