@@ -598,3 +598,5 @@
 
 * [2026-10-29 21:21:34] update applied to utilities (Ref: 15bdf49c-16)
 
+* [2026-10-29 21:21:34] clean applied to type hints (Ref: 15bdf49c-17)
+
