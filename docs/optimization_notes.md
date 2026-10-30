@@ -1537,3 +1537,5 @@
 
 * [2026-10-30 02:44:56] clean applied to internal configs (Ref: 07f5ae36-35)
 
+* [2026-10-30 02:44:56] clean applied to module structure (Ref: 07f5ae36-36)
+
