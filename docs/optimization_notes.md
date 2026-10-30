@@ -1319,3 +1319,5 @@
 
 * [2026-10-30 02:43:41] update applied to module structure (Ref: 84af972f-26)
 
+* [2026-10-30 02:43:41] clean applied to internal configs (Ref: 84af972f-27)
+
