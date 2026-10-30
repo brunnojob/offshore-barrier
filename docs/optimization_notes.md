@@ -902,3 +902,5 @@
 
 * [2026-10-29 21:23:04] improve applied to internal configs (Ref: b18d249f-18)
 
+* [2026-10-29 21:23:04] clean applied to internal configs (Ref: b18d249f-19)
+
