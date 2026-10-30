@@ -396,3 +396,5 @@
 
 * [2026-10-29 21:18:11] format applied to internal configs (Ref: 2e21b34f-15)
 
+* [2026-10-29 21:18:11] improve applied to module structure (Ref: 2e21b34f-16)
+
