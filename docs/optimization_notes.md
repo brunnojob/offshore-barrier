@@ -1070,3 +1070,5 @@
 
 * [2026-10-29 21:24:03] improve applied to utilities (Ref: df706b6c-2)
 
+* [2026-10-29 21:24:03] update applied to internal configs (Ref: df706b6c-3)
+
