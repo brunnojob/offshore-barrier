@@ -490,3 +490,5 @@
 
 * [2026-10-29 21:18:41] improve applied to inline comments (Ref: 3e214453-12)
 
+* [2026-10-29 21:18:41] optimize applied to module structure (Ref: 3e214453-13)
+
