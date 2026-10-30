@@ -1739,3 +1739,5 @@
 
 * [2026-10-30 02:45:59] optimize applied to utilities (Ref: dfe75832-36)
 
+* [2026-10-30 02:45:59] format applied to internal configs (Ref: dfe75832-37)
+
