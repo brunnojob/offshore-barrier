@@ -1675,3 +1675,5 @@
 
 * [2026-10-30 02:45:45] optimize applied to utilities (Ref: dfe75832-4)
 
+* [2026-10-30 02:45:45] update applied to internal configs (Ref: dfe75832-5)
+
