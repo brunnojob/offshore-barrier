@@ -958,3 +958,5 @@
 
 * [2026-10-29 21:23:20] clean applied to internal configs (Ref: b18d249f-46)
 
+* [2026-10-29 21:23:21] clean applied to type hints (Ref: b18d249f-47)
+
