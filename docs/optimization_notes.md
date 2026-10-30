@@ -662,3 +662,5 @@
 
 * [2026-10-29 21:21:42] optimize applied to module structure (Ref: 15bdf49c-48)
 
+* [2026-10-29 21:21:42] clean applied to utilities (Ref: 15bdf49c-49)
+
