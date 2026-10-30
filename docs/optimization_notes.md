@@ -298,3 +298,5 @@
 
 * [2026-10-29 21:17:48] clean applied to module structure (Ref: badca18f-16)
 
+* [2026-10-29 21:17:48] clean applied to type hints (Ref: badca18f-17)
+
