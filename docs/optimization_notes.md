@@ -408,3 +408,5 @@
 
 * [2026-10-29 21:18:12] update applied to inline comments (Ref: 2e21b34f-21)
 
+* [2026-10-29 21:18:13] clean applied to internal configs (Ref: 2e21b34f-22)
+
