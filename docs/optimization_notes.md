@@ -1078,3 +1078,5 @@
 
 * [2026-10-29 21:24:08] clean applied to inline comments (Ref: df706b6c-6)
 
+* [2026-10-29 21:24:11] clean applied to utilities (Ref: df706b6c-7)
+
