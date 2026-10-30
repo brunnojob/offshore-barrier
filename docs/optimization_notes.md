@@ -1573,3 +1573,5 @@
 
 * [2026-10-30 02:45:14] update applied to internal configs (Ref: 4c95abc3-3)
 
+* [2026-10-30 02:45:14] improve applied to utilities (Ref: 4c95abc3-4)
+
