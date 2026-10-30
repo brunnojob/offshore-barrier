@@ -816,3 +816,5 @@
 
 * [2026-10-29 21:22:29] optimize applied to module structure (Ref: 40c1796e-25)
 
+* [2026-10-29 21:22:29] format applied to internal configs (Ref: 40c1796e-26)
+
