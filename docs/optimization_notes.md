@@ -768,3 +768,5 @@
 
 * [2026-10-29 21:22:21] clean applied to internal configs (Ref: 40c1796e-1)
 
+* [2026-10-29 21:22:21] update applied to utilities (Ref: 40c1796e-2)
+
