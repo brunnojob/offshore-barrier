@@ -468,3 +468,5 @@
 
 * [2026-10-29 21:18:38] update applied to internal configs (Ref: 3e214453-1)
 
+* [2026-10-29 21:18:38] format applied to inline comments (Ref: 3e214453-2)
+
