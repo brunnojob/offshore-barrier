@@ -294,3 +294,5 @@
 
 * [2026-10-29 21:17:47] optimize applied to utilities (Ref: badca18f-14)
 
+* [2026-10-29 21:17:47] improve applied to inline comments (Ref: badca18f-15)
+
