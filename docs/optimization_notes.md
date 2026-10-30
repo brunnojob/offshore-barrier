@@ -1040,3 +1040,5 @@
 
 * [2026-10-29 21:23:46] update applied to type hints (Ref: 16c18ead-37)
 
+* [2026-10-29 21:23:47] format applied to utilities (Ref: 16c18ead-38)
+
