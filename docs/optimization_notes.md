@@ -900,3 +900,5 @@
 
 * [2026-10-29 21:23:04] format applied to module structure (Ref: b18d249f-17)
 
+* [2026-10-29 21:23:04] improve applied to internal configs (Ref: b18d249f-18)
+
