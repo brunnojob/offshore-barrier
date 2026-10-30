@@ -1501,3 +1501,5 @@
 
 * [2026-10-30 02:44:52] optimize applied to internal configs (Ref: 07f5ae36-17)
 
+* [2026-10-30 02:44:52] clean applied to internal configs (Ref: 07f5ae36-18)
+
