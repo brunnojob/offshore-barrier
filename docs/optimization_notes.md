@@ -290,3 +290,5 @@
 
 * [2026-10-29 21:17:47] format applied to inline comments (Ref: badca18f-12)
 
+* [2026-10-29 21:17:47] improve applied to inline comments (Ref: badca18f-13)
+
