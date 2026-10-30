@@ -960,3 +960,5 @@
 
 * [2026-10-29 21:23:21] clean applied to type hints (Ref: b18d249f-47)
 
+* [2026-10-29 21:23:21] update applied to utilities (Ref: b18d249f-48)
+
