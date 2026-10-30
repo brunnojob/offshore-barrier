@@ -764,3 +764,5 @@
 
 * [2026-10-29 21:22:09] optimize applied to type hints (Ref: 433dad78-49)
 
+* [2026-10-29 21:22:09] improve applied to internal configs (Ref: 433dad78-50)
+
