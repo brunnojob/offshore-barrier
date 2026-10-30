@@ -1529,3 +1529,5 @@
 
 * [2026-10-30 02:44:55] clean applied to utilities (Ref: 07f5ae36-31)
 
+* [2026-10-30 02:44:55] clean applied to internal configs (Ref: 07f5ae36-32)
+
