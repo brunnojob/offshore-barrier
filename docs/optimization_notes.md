@@ -1465,3 +1465,5 @@
 
 * [2026-10-30 02:44:35] improve applied to inline comments (Ref: 1a5acd86-49)
 
+* [2026-10-30 02:44:35] update applied to internal configs (Ref: 1a5acd86-50)
+
