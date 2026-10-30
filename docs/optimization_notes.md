@@ -506,3 +506,5 @@
 
 * [2026-10-29 21:18:43] format applied to internal configs (Ref: 3e214453-20)
 
+* [2026-10-29 21:18:43] optimize applied to inline comments (Ref: 3e214453-21)
+
