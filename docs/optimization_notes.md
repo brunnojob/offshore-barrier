@@ -944,3 +944,5 @@
 
 * [2026-10-29 21:23:15] clean applied to internal configs (Ref: b18d249f-39)
 
+* [2026-10-29 21:23:16] clean applied to inline comments (Ref: b18d249f-40)
+
