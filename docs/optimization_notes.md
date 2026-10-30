@@ -308,3 +308,5 @@
 
 * [2026-10-29 21:17:49] clean applied to utilities (Ref: badca18f-21)
 
+* [2026-10-29 21:17:49] format applied to module structure (Ref: badca18f-22)
+
