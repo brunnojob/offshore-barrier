@@ -1144,3 +1144,5 @@
 
 * [2026-10-29 21:24:26] update applied to utilities (Ref: df706b6c-39)
 
+* [2026-10-29 21:24:26] format applied to utilities (Ref: df706b6c-40)
+
