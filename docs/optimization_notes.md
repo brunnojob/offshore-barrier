@@ -236,3 +236,5 @@
 
 * [2026-10-29 21:11:19] format applied to inline comments (Ref: 13ae8f03)
 
+* [2026-10-29 21:11:37] format applied to internal configs (Ref: 5e5b5e21)
+
