@@ -766,3 +766,5 @@
 
 * [2026-10-29 21:22:09] improve applied to internal configs (Ref: 433dad78-50)
 
+* [2026-10-29 21:22:21] clean applied to internal configs (Ref: 40c1796e-1)
+
