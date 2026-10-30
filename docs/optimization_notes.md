@@ -930,3 +930,5 @@
 
 * [2026-10-29 21:23:13] update applied to utilities (Ref: b18d249f-32)
 
+* [2026-10-29 21:23:14] clean applied to module structure (Ref: b18d249f-33)
+
