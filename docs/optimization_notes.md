@@ -714,3 +714,5 @@
 
 * [2026-10-29 21:22:03] clean applied to type hints (Ref: 433dad78-24)
 
+* [2026-10-29 21:22:03] clean applied to internal configs (Ref: 433dad78-25)
+
