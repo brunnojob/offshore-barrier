@@ -366,3 +366,5 @@
 
 * [2026-10-29 21:17:55] clean applied to utilities (Ref: badca18f-50)
 
+* [2026-10-29 21:18:08] format applied to utilities (Ref: 2e21b34f-1)
+
