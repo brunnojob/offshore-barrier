@@ -276,3 +276,5 @@
 
 * [2026-10-29 21:17:46] optimize applied to internal configs (Ref: badca18f-5)
 
+* [2026-10-29 21:17:46] improve applied to module structure (Ref: badca18f-6)
+
