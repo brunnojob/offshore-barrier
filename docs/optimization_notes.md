@@ -798,3 +798,5 @@
 
 * [2026-10-29 21:22:25] clean applied to inline comments (Ref: 40c1796e-16)
 
+* [2026-10-29 21:22:25] format applied to utilities (Ref: 40c1796e-17)
+
