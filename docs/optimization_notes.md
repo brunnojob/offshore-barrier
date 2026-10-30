@@ -644,3 +644,5 @@
 
 * [2026-10-29 21:21:40] improve applied to module structure (Ref: 15bdf49c-39)
 
+* [2026-10-29 21:21:40] improve applied to internal configs (Ref: 15bdf49c-40)
+
