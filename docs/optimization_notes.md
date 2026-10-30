@@ -580,3 +580,5 @@
 
 * [2026-10-29 21:21:31] format applied to type hints (Ref: 15bdf49c-7)
 
+* [2026-10-29 21:21:31] format applied to module structure (Ref: 15bdf49c-8)
+
