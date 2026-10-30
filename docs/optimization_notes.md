@@ -1435,3 +1435,5 @@
 
 * [2026-10-30 02:44:26] update applied to type hints (Ref: 1a5acd86-34)
 
+* [2026-10-30 02:44:26] clean applied to internal configs (Ref: 1a5acd86-35)
+
