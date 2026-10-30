@@ -686,3 +686,5 @@
 
 * [2026-10-29 21:21:58] improve applied to internal configs (Ref: 433dad78-10)
 
+* [2026-10-29 21:21:59] improve applied to module structure (Ref: 433dad78-11)
+
