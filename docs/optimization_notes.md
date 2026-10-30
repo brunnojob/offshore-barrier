@@ -522,3 +522,5 @@
 
 * [2026-10-29 21:18:45] clean applied to utilities (Ref: 3e214453-28)
 
+* [2026-10-29 21:18:45] clean applied to module structure (Ref: 3e214453-29)
+
