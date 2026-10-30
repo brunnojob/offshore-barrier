@@ -748,3 +748,5 @@
 
 * [2026-10-29 21:22:07] improve applied to internal configs (Ref: 433dad78-41)
 
+* [2026-10-29 21:22:07] format applied to module structure (Ref: 433dad78-42)
+
