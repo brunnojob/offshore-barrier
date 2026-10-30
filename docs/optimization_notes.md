@@ -364,3 +364,5 @@
 
 * [2026-10-29 21:17:55] clean applied to internal configs (Ref: badca18f-49)
 
+* [2026-10-29 21:17:55] clean applied to utilities (Ref: badca18f-50)
+
