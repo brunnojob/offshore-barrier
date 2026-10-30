@@ -696,3 +696,5 @@
 
 * [2026-10-29 21:22:00] clean applied to type hints (Ref: 433dad78-15)
 
+* [2026-10-29 21:22:00] clean applied to inline comments (Ref: 433dad78-16)
+
