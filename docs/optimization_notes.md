@@ -1072,3 +1072,5 @@
 
 * [2026-10-29 21:24:03] update applied to internal configs (Ref: df706b6c-3)
 
+* [2026-10-29 21:24:04] update applied to module structure (Ref: df706b6c-4)
+
