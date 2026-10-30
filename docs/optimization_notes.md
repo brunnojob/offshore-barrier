@@ -500,3 +500,5 @@
 
 * [2026-10-29 21:18:42] optimize applied to internal configs (Ref: 3e214453-17)
 
+* [2026-10-29 21:18:42] clean applied to internal configs (Ref: 3e214453-18)
+
