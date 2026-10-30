@@ -338,3 +338,5 @@
 
 * [2026-10-29 21:17:52] format applied to internal configs (Ref: badca18f-36)
 
+* [2026-10-29 21:17:52] improve applied to inline comments (Ref: badca18f-37)
+
