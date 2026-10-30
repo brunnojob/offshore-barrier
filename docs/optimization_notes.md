@@ -592,3 +592,5 @@
 
 * [2026-10-29 21:21:33] format applied to module structure (Ref: 15bdf49c-13)
 
+* [2026-10-29 21:21:33] improve applied to inline comments (Ref: 15bdf49c-14)
+
