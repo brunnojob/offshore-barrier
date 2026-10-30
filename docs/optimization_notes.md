@@ -1124,3 +1124,5 @@
 
 * [2026-10-29 21:24:23] improve applied to internal configs (Ref: df706b6c-29)
 
+* [2026-10-29 21:24:23] improve applied to inline comments (Ref: df706b6c-30)
+
