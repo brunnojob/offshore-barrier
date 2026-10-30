@@ -672,3 +672,5 @@
 
 * [2026-10-29 21:21:56] clean applied to type hints (Ref: 433dad78-3)
 
+* [2026-10-29 21:21:56] improve applied to utilities (Ref: 433dad78-4)
+
