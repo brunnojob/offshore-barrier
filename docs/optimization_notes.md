@@ -320,3 +320,5 @@
 
 * [2026-10-29 21:17:50] optimize applied to internal configs (Ref: badca18f-27)
 
+* [2026-10-29 21:17:50] improve applied to utilities (Ref: badca18f-28)
+
