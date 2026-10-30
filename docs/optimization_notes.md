@@ -1591,3 +1591,5 @@
 
 * [2026-10-30 02:45:17] improve applied to internal configs (Ref: 4c95abc3-12)
 
+* [2026-10-30 02:45:17] format applied to module structure (Ref: 4c95abc3-13)
+
