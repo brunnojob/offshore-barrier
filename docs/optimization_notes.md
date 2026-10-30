@@ -272,3 +272,5 @@
 
 * [2026-10-29 21:17:46] improve applied to utilities (Ref: badca18f-3)
 
+* [2026-10-29 21:17:46] format applied to inline comments (Ref: badca18f-4)
+
