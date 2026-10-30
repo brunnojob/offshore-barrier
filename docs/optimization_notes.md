@@ -324,3 +324,5 @@
 
 * [2026-10-29 21:17:50] format applied to inline comments (Ref: badca18f-29)
 
+* [2026-10-29 21:17:50] format applied to utilities (Ref: badca18f-30)
+
