@@ -1245,3 +1245,5 @@
 
 * [2026-10-30 02:43:18] format applied to internal configs (Ref: 8b7c3fb5-39)
 
+* [2026-10-30 02:43:18] format applied to utilities (Ref: 8b7c3fb5-40)
+
