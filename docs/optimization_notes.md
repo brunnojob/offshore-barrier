@@ -488,3 +488,5 @@
 
 * [2026-10-29 21:18:40] format applied to module structure (Ref: 3e214453-11)
 
+* [2026-10-29 21:18:41] improve applied to inline comments (Ref: 3e214453-12)
+
