@@ -512,3 +512,5 @@
 
 * [2026-10-29 21:18:44] optimize applied to utilities (Ref: 3e214453-23)
 
+* [2026-10-29 21:18:44] improve applied to inline comments (Ref: 3e214453-24)
+
