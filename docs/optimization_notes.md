@@ -736,3 +736,5 @@
 
 * [2026-10-29 21:22:06] improve applied to type hints (Ref: 433dad78-35)
 
+* [2026-10-29 21:22:06] update applied to internal configs (Ref: 433dad78-36)
+
