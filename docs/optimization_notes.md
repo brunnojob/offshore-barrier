@@ -336,3 +336,5 @@
 
 * [2026-10-29 21:17:52] clean applied to module structure (Ref: badca18f-35)
 
+* [2026-10-29 21:17:52] format applied to internal configs (Ref: badca18f-36)
+
