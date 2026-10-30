@@ -502,3 +502,5 @@
 
 * [2026-10-29 21:18:42] clean applied to internal configs (Ref: 3e214453-18)
 
+* [2026-10-29 21:18:43] improve applied to utilities (Ref: 3e214453-19)
+
