@@ -1138,3 +1138,5 @@
 
 * [2026-10-29 21:24:25] improve applied to type hints (Ref: df706b6c-36)
 
+* [2026-10-29 21:24:25] improve applied to module structure (Ref: df706b6c-37)
+
