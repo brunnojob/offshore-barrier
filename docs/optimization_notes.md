@@ -1265,3 +1265,5 @@
 
 * [2026-10-30 02:43:20] format applied to type hints (Ref: 8b7c3fb5-49)
 
+* [2026-10-30 02:43:20] improve applied to internal configs (Ref: 8b7c3fb5-50)
+
