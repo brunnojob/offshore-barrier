@@ -974,3 +974,5 @@
 
 * [2026-10-29 21:23:38] optimize applied to internal configs (Ref: 16c18ead-4)
 
+* [2026-10-29 21:23:39] improve applied to type hints (Ref: 16c18ead-5)
+
