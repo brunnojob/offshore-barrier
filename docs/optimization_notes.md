@@ -854,3 +854,5 @@
 
 * [2026-10-29 21:22:36] update applied to module structure (Ref: 40c1796e-44)
 
+* [2026-10-29 21:22:37] improve applied to internal configs (Ref: 40c1796e-45)
+
