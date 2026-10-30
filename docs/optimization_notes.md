@@ -1385,3 +1385,5 @@
 
 * [2026-10-30 02:44:14] clean applied to internal configs (Ref: 1a5acd86-9)
 
+* [2026-10-30 02:44:14] format applied to utilities (Ref: 1a5acd86-10)
+
