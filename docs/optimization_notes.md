@@ -720,3 +720,5 @@
 
 * [2026-10-29 21:22:03] clean applied to internal configs (Ref: 433dad78-27)
 
+* [2026-10-29 21:22:03] format applied to utilities (Ref: 433dad78-28)
+
