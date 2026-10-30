@@ -936,3 +936,5 @@
 
 * [2026-10-29 21:23:14] update applied to type hints (Ref: b18d249f-35)
 
+* [2026-10-29 21:23:14] clean applied to module structure (Ref: b18d249f-36)
+
