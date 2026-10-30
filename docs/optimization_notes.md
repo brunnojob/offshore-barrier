@@ -652,3 +652,5 @@
 
 * [2026-10-29 21:21:41] optimize applied to utilities (Ref: 15bdf49c-43)
 
+* [2026-10-29 21:21:41] clean applied to internal configs (Ref: 15bdf49c-44)
+
