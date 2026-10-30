@@ -608,3 +608,5 @@
 
 * [2026-10-29 21:21:35] clean applied to module structure (Ref: 15bdf49c-21)
 
+* [2026-10-29 21:21:35] format applied to utilities (Ref: 15bdf49c-22)
+
