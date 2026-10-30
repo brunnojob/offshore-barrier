@@ -616,3 +616,5 @@
 
 * [2026-10-29 21:21:36] update applied to type hints (Ref: 15bdf49c-25)
 
+* [2026-10-29 21:21:36] clean applied to module structure (Ref: 15bdf49c-26)
+
