@@ -724,3 +724,5 @@
 
 * [2026-10-29 21:22:04] update applied to internal configs (Ref: 433dad78-29)
 
+* [2026-10-29 21:22:04] clean applied to module structure (Ref: 433dad78-30)
+
