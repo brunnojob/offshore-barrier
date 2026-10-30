@@ -1681,3 +1681,5 @@
 
 * [2026-10-30 02:45:46] update applied to utilities (Ref: dfe75832-7)
 
+* [2026-10-30 02:45:46] format applied to internal configs (Ref: dfe75832-8)
+
