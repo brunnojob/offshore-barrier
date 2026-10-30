@@ -618,3 +618,5 @@
 
 * [2026-10-29 21:21:36] clean applied to module structure (Ref: 15bdf49c-26)
 
+* [2026-10-29 21:21:36] clean applied to inline comments (Ref: 15bdf49c-27)
+
