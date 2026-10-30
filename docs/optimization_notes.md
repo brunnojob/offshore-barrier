@@ -982,3 +982,5 @@
 
 * [2026-10-29 21:23:39] format applied to utilities (Ref: 16c18ead-8)
 
+* [2026-10-29 21:23:40] improve applied to inline comments (Ref: 16c18ead-9)
+
