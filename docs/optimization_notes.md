@@ -594,3 +594,5 @@
 
 * [2026-10-29 21:21:33] improve applied to inline comments (Ref: 15bdf49c-14)
 
+* [2026-10-29 21:21:34] update applied to module structure (Ref: 15bdf49c-15)
+
