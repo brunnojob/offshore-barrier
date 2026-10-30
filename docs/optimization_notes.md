@@ -1100,3 +1100,5 @@
 
 * [2026-10-29 21:24:18] clean applied to type hints (Ref: df706b6c-17)
 
+* [2026-10-29 21:24:19] clean applied to utilities (Ref: df706b6c-18)
+
