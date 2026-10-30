@@ -722,3 +722,5 @@
 
 * [2026-10-29 21:22:03] format applied to utilities (Ref: 433dad78-28)
 
+* [2026-10-29 21:22:04] update applied to internal configs (Ref: 433dad78-29)
+
