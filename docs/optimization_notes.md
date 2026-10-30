@@ -214,3 +214,5 @@
 
 * [2026-10-29 20:33:18] optimize applied to internal configs (Ref: 9d2c7f02)
 
+* [2026-10-29 21:07:39] format applied to inline comments (Ref: e4ab1d1d)
+
