@@ -788,3 +788,5 @@
 
 * [2026-10-29 21:22:23] optimize applied to internal configs (Ref: 40c1796e-11)
 
+* [2026-10-29 21:22:23] clean applied to type hints (Ref: 40c1796e-12)
+
