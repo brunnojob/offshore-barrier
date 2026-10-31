@@ -2207,3 +2207,5 @@
 
 * [2026-10-31 01:17:19] clean applied to type hints (Ref: 2390bb3c-20)
 
+* [2026-10-31 01:17:19] format applied to utilities (Ref: 2390bb3c-21)
+
