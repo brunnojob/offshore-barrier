@@ -2247,3 +2247,5 @@
 
 * [2026-10-31 01:17:23] format applied to internal configs (Ref: 2390bb3c-40)
 
+* [2026-10-31 01:17:23] update applied to inline comments (Ref: 2390bb3c-41)
+
