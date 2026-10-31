@@ -1987,3 +1987,5 @@
 
 * [2026-10-31 01:16:35] improve applied to internal configs (Ref: 805ee2b2-10)
 
+* [2026-10-31 01:16:35] improve applied to inline comments (Ref: 805ee2b2-11)
+
