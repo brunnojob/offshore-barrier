@@ -2199,3 +2199,5 @@
 
 * [2026-10-31 01:17:18] improve applied to inline comments (Ref: 2390bb3c-16)
 
+* [2026-10-31 01:17:18] format applied to inline comments (Ref: 2390bb3c-17)
+
