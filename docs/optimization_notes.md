@@ -1955,3 +1955,5 @@
 
 * [2026-10-31 01:16:12] format applied to inline comments (Ref: 746f1c15-44)
 
+* [2026-10-31 01:16:12] format applied to internal configs (Ref: 746f1c15-45)
+
