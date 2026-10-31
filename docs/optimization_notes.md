@@ -1963,3 +1963,5 @@
 
 * [2026-10-31 01:16:13] improve applied to internal configs (Ref: 746f1c15-48)
 
+* [2026-10-31 01:16:13] update applied to utilities (Ref: 746f1c15-49)
+
