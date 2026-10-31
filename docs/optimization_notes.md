@@ -2031,3 +2031,5 @@
 
 * [2026-10-31 01:16:40] improve applied to module structure (Ref: 805ee2b2-32)
 
+* [2026-10-31 01:16:40] improve applied to internal configs (Ref: 805ee2b2-33)
+
