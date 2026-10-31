@@ -2245,3 +2245,5 @@
 
 * [2026-10-31 01:17:23] optimize applied to type hints (Ref: 2390bb3c-39)
 
+* [2026-10-31 01:17:23] format applied to internal configs (Ref: 2390bb3c-40)
+
