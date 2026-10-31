@@ -2191,3 +2191,5 @@
 
 * [2026-10-31 01:17:17] format applied to module structure (Ref: 2390bb3c-12)
 
+* [2026-10-31 01:17:17] improve applied to internal configs (Ref: 2390bb3c-13)
+
