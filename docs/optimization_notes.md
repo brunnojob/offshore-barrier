@@ -2353,3 +2353,5 @@
 
 * [2026-10-31 01:17:45] optimize applied to internal configs (Ref: ddf33d9a-43)
 
+* [2026-10-31 01:17:45] format applied to utilities (Ref: ddf33d9a-44)
+
