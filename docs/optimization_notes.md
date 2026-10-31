@@ -2091,3 +2091,5 @@
 
 * [2026-10-31 01:16:57] format applied to inline comments (Ref: 3bb9a62a-12)
 
+* [2026-10-31 01:16:58] clean applied to internal configs (Ref: 3bb9a62a-13)
+
