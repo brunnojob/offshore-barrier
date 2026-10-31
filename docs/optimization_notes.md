@@ -1793,3 +1793,5 @@
 
 * [2026-10-31 01:15:26] format applied to module structure (Ref: 8f6d2997-13)
 
+* [2026-10-31 01:15:26] format applied to internal configs (Ref: 8f6d2997-14)
+
