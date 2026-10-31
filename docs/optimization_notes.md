@@ -2221,3 +2221,5 @@
 
 * [2026-10-31 01:17:20] optimize applied to internal configs (Ref: 2390bb3c-27)
 
+* [2026-10-31 01:17:20] update applied to module structure (Ref: 2390bb3c-28)
+
