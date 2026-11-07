@@ -8,6 +8,10 @@ O problema escolhido é a perda de visibilidade sobre controles que foram declar
 
 [Demonstração interativa](https://brunnojob.github.io/offshore-barrier/) · [Projetos de hardware](hardware/README.md) · [DeckWatch](hardware/deckwatch/README.md)
 
+## Projeto relacionado
+
+[Offshore Fleet Safety — dashboard](https://brunnojob.github.io/OFS/dashboard)
+
 ## Demonstração e projetos alvo
 
 Pages responsivo em PT-BR/EN: sete barreiras editáveis, quatro cenários, exportação JSON, simulação de perda de telemetria e catálogo de nove projetos. Sem login, token ou backend. Os dados ficam somente em memória e são reiniciados ao recarregar. O motor Python continua disponível para uso local; a demonstração executa JavaScript no navegador.
