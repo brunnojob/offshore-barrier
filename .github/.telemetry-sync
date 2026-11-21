@@ -1,4 +1,4 @@
 date=2026-11-21
-seq=99
-ts=1795232062
-scope=lidar-zone
+seq=100
+ts=1795232063
+scope=haptic-alert
