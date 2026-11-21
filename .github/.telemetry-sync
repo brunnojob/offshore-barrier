@@ -1,4 +1,4 @@
 date=2026-11-21
-seq=5
-ts=1795231968
-scope=interlock
+seq=6
+ts=1795231969
+scope=haptic-alert
