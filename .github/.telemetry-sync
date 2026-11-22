@@ -1,4 +1,4 @@
 date=2026-11-22
-seq=230
-ts=1795325519
-scope=interlock
+seq=231
+ts=1795325521
+scope=lidar-zone
