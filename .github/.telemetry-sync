@@ -1,4 +1,4 @@
 date=2026-11-22
-seq=365
-ts=1795326034
-scope=safety-bus
+seq=366
+ts=1795326038
+scope=lidar-zone
