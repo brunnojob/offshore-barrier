@@ -1,4 +1,4 @@
 date=2026-11-26
-seq=11
-ts=1795739299
-scope=interlock
+seq=12
+ts=1795739300
+scope=safety-bus
